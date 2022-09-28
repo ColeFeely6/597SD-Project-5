@@ -24,9 +24,9 @@ Microphone: either laptop microphone or Adafruit Arduino Microphone
 Other: Power Supply, Breadboard, Amplifier, Resistors, Jumpers, etc.   
 
 ## Team Roles
-Logistics and Budget: Cole Feely
-Hardware: Aidan Murray
-Software: Sash Rao
+- Logistics and Budget: Cole Feely
+- Hardware: Aidan Murray
+- Software: Sash Rao
 
 
 ## Notes for Professor Anwar
