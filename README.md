@@ -35,11 +35,14 @@ Other: Power Supply, Capacitors, Resistors, Jumpers etc.
 
 ![SD Block Diagram ](https://user-images.githubusercontent.com/65377055/206256460-8ec77333-a1ae-4c95-b5f7-336dd3e7e460.jpeg)
 
+## Hardware Setup
+
 
 ## Timeline 
 #### October 12, 2022: Get something working HW
 
 - Have speaker send sound and Microphone working
+<img width="710" alt="Screen Shot 2022-12-07 at 3 19 23 PM" src="https://user-images.githubusercontent.com/65377055/206287030-3b6340cc-5003-4881-aa52-f9bef3ece410.png">
 
 #### October 20, 2022: Get something working SW
 
