@@ -35,7 +35,8 @@ We only have three members but this is a four person team. Would it be possible 
 Additionally, this project requires us to purchase parts. Will parts or a budget be supplied?
 
 ## Block Diagram 
-![597SD-propsal-block-diagram](https://user-images.githubusercontent.com/65377055/193904589-64364883-2fc9-4d87-8ae0-63387dcd8509.jpeg)
+
+![SD Block Diagram ](https://user-images.githubusercontent.com/65377055/206256460-8ec77333-a1ae-4c95-b5f7-336dd3e7e460.jpeg)
 
 
 ## Timeline 
