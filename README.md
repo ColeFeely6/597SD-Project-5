@@ -6,7 +6,8 @@ Start Date: Sept. 27, 2022
 
 Due Date: December 8, 2022
 
-![poster](https://user-images.githubusercontent.com/65377055/206488012-746683d7-e019-4542-aa2f-d78bbc5d6d72.jpeg)
+![My project-1 1](https://user-images.githubusercontent.com/65377055/206490235-eabfdbf4-235b-4cbc-a495-e6149f7aff4b.jpeg)
+
 
 ## Background
 There are some communication methods of data transfer using sensing signals with low-cost sensors but these systems produce low sampling rates which are not as efficient than high cost solutions with high sampling rates. We will investigate how we can improve sensing signal data transfer with low-cost sensors with low sampling rates by minimizing the error and noise rates commonly encountered. 
